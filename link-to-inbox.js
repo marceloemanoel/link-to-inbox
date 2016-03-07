@@ -88,7 +88,7 @@
 			case 'hotmail.com':
 			case 'outlook.com':
 				spec.name = 'Outlook';
-				spec.domain = 'dub131.mail.live.com';
+				spec.domain = 'mail.live.com';
 				spec.path = '/';
 
 				if (parsedFilters) {
