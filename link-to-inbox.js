@@ -85,6 +85,8 @@
 				break;
 
 			case 'live.com':
+			case 'hotmail.com':
+			case 'outlook.com':
 				spec.name = 'Outlook';
 				spec.domain = 'dub131.mail.live.com';
 				spec.path = '/';
